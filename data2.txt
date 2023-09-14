@@ -1,0 +1,9 @@
+SCD,1,Anoosha,2013
+SAC,1,Arif Alvi,1982
+Calculus,3,Thomas,08-09-1999
+Urdu,1,Hamilton,2006
+English,1,Kimberly,2007
+Maths,3,Jennifer,09-8-2018
+History,1,Suresh,2017
+Geography,1,Nikhil,2019
+Taraweeh,2,tanweer, usama,2001
